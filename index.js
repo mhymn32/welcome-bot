@@ -111,4 +111,4 @@ if(type === 'vanity'){
 
 
 
-client.login(process.env.token)
+client.login(MTA4ODA4MDE0OTcxMjQ4MjMxNQ.G9ovpA.nMiH3S0FznNwnS5R2vNlG1h_QUYk8gyK0HnDuE)
